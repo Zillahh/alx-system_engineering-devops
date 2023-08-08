@@ -1,0 +1,1 @@
+shell varieble expansions script
