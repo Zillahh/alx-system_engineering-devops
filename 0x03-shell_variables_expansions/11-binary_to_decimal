@@ -1,2 +1,2 @@
 #!/bin/bash
-printf $BINARY "%d\n"
+printf ($BINARY > "%d\n")
